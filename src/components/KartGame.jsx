@@ -5,10 +5,10 @@ import spinSound from '/src/assets/sounds/spin.mp3';
 import resultSound from '/src/assets/sounds/result.mp3';
 
 const tracks = [
-  { id: 1, name: 'Circuit Mario', image: '/src/assets/images/track1.png' },
-  { id: 2, name: 'Royaume Champignon', image: '/src/assets/images/track2.png' },
-  { id: 3, name: 'Plage Koopa', image: '/src/assets/images/track3.png' },
-  { id: 4, name: 'Circuit Arc-en-ciel', image: '/src/assets/images/track4.png' }
+  { id: 1, name: 'Circuit Mario', image: '/src/assets/images/1.png' },
+  { id: 2, name: 'Royaume Champignon', image: '/src/assets/images/2.png' },
+  { id: 3, name: 'Plage Koopa', image: '/src/assets/images/3.png' },
+  { id: 4, name: 'Circuit Arc-en-ciel', image: '/src/assets/images/4.png' }
 ];
 
 const KartGame = () => {
